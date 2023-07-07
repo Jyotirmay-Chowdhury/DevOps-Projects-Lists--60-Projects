@@ -74,187 +74,214 @@ Needless to say, this aids in the faster delivery of high-quality products to cl
 
 link:- 
 
-# 11) 
+# 11)  Build A Simple Web Server With Golang
 
 link:- 
 
-# 12) 
+# 12) Build A CRUD API With Golang
 
 link:- 
 
-# 13) 
+# 13) Golang With MySQL Book Management System
 
 link:- 
 
-# 14) 
+# 14) Simple SlackBot To Calculate Age
 
 link:- 
 
-# 15)
+# 15) Golang Slackbot for File Uploading
 
 link:- 
 
-# 16)
+# 16)  Email Verifier Tool With Golang
 
 link:- 
 
-# 17) 
+# 17) AWS Lambda With Golang
 
 links:-
 
-# 18)
+# 18) CRM with Golang Fiber
 
 links:- 
 
-# 19) 
+# 19) HRMS with Golang Fiber
 
 link:- 
 
-# 20) 
+# 20) Complete Serverless Stack
 
 link:- 
 
-# 21) 
+# 21) A.I Bot with Wolfram, Wit.ai and golang
 
 link:- 
 
-# 22) 
+# 22) Production Ready CI/CD Pipeline Using Jenkins, Ansible, Docker, Kubernetes, etc
 
 link:- 
 
-# 23) 
+# 23) CI/CD setup pre-requisites for Simple pipeline
 
 link:- 
 
-# 24) 
+# 24) How to upload code onto GitHub repository | How to push code from local repo to remote repo
 
 link:- 
 
-# 25) 
+# 25) How to Create AWS Free Account
 
 link:- 
 
-# 26) 
+# 26) Create Linux EC2 instance | AWS EC2 instance | Linux Server
 
 link:- 
 
-# 27) 
+# 27) How to Login to EC2 instance Using without conversion Key with MobaXterm
 
 link:- 
 
-# 28) 
+# 28) Jenkins Installation & Configuration on AWS EC2 instance | Jenkins Installation on AWS EC2
 
 link:- 
 
-# 29)
+# 29) Installing & Configure Maven on AWS EC2 instance | Maven setup & configuration on Jenkins
 
 link:- 
 
-# 30) 
+# 30) Mini DevOps - Configure Global Jenkins Server Security | Securing Jenkins Server
 
 link:- 
 
-# 31) 
+# 31) Setup & configure Tomcat on EC2 instance | Tomcat server setup
 
 link:- 
 
-
-# 32) 
-
-link:- 
-
-# 33) 
+# 32) Simple DevOps Project-1 | Simple DevOps project for CI/CD | CI/CD through Jenkins 
 
 link:- 
 
-# 34)
+# 33) Simple DevOps Project-2 | CI/CD pipeline using GIT, Jenkins & Ansible
 
 link:- 
 
-# 35)
+# 34) Simple DevOps Project-3 | DevOps project with Git, Jenkins and Docker on AWS | CICD on containers
 
 link:- 
 
-# 36)
+# 35) Simple DevOps Project-4 - Part-01 | How To Create a Docker Image Using Jenkins And Ansible
 
 link:- 
 
-# 37) 
+# 36) Simple DevOps Project-4 - Part 02 | Create DevOps project using Git, Jenkins, ansible and Docker
 
 link:- 
 
-# 38) 
+# 37) Simple DevOps Project-4 - Part 03 | Enable versioning on docker images through jenkins job
 
 link:- 
 
-# 39) 
+# 38) Deploy on Kubernetes Using Git, Jenkins, Ansible | Simple DevOps Project -5
 
 link:- 
 
-# 40)
+# 39) DevOps Project - CI/CD Pipeline using Git, Jenkins, Ansible, Docker, and Kubernetes on AWS 
 
 link:- 
 
-# 41)
+# 40) DevOps Real-Time Projects Intro and Prerequisites
 
 link:- 
 
-# 42) 
+# 41) DevOps Real-Time Project 01 - Multi Tier Web Application Setup
 
 link:- 
 
-# 43) 
+# 42) DevOps Project - 2, Automated Setup of Multi-Tier App, Locally
+
+link:- 
+
+# 43) DevOps Project - 3  Web App Setup on AWS Cloud [Lift & Shift]
 
 link:-
 
-# 44) 
+# 44) DevOps Real-time Project - 4, Re-Architecture Web App on AWS Cloud -Introduction
 
 link:- 
 
-# 45)
+# 45) DevOps Real-time Project -5 Continuous Integration Using Jenkins, Nexus, Sonarqube & Slack
 
 link:- 
 
-# 46)
+# 46) DevOps Real-time Project 6 - Continuous Integration on AWS Cloud - Introduction
 
 link:- 
 
-# 47)
+# 47) DevOps Real-time Project 7 - Jenkins Pipeline As A Code Project
 
 link:- 
 
-# 48)
+# 48) DevOps Real-time Project 8 - Continuous Delivery of Java Web Application
 
 link:- 
 
-# 49)
+# 49) DevOps Real-time Project 9 - Continuous Delivery on AWS Cloud Java Application - Introduction
 
 link:- 
 
-# 50)
+# 50) DevOps Real-time Project 10 - Cloud Automation With Ansible
 
 link:- 
 
-# 51)
+# 51) DevOps Real-time Project 11 A - Ansible for Complete Stack Setup - (Second Phase)
 
 link:- 
 
-# 52) 
+# 52) DevOps Real-time Project 11 B - Ansible for Complete Stack Setup Converted (Third Phase)
 
 link:- 
 
-# 53)
+# 53) DevOps Real-time Project 12 - Continuous Delivery And Configuration Management [Jenkins + Ansible]
 
 link:- 
 
-# 54) 
+# 54) DevOps Real-time Project 13  Hybrid Continuous Delivery [Cloud plus CI]
 
 link:- 
 
-# 55)
+# 55) DevOps Real-time Project 14 - Containerization of Java project 
 
 link:- 
 
-# 56)
+# 56) DevOps Real-time Project 15 - Kubernetes Setup for Productions
 
 link:- 
+
+# 57) DevOps Real-time Project 16 - Java App Deployment on Kubernetes Cluster
+
+link:-
+
+# 58) DevOps Real-time Project 17 A - Terraform Tutorials Converted (Terraform IntroAndExercise1)
+
+link:- 
+
+# 59) DevOps Real-time Project 17 B - Terraform for Cloud State Management Converted
+
+link:- 
+
+# 60) DevOps Real-time Project 18 A - Cloud Formation 
+
+link:- 
+
+# 61) DevOps Real-time Project 18 B - Introduction to CloudFormation for Cloud Stack Setup
+
+link:- 
+
+# 62) DevOps Real-time project 19 - CI/CD For Containers
+
+link:- 
+
+# 63) DevOps Real-time Project 20 - AWS Securities 
+
+link:-
