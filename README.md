@@ -36,7 +36,6 @@ Then you’ll learn how to set up a continuous delivery pipeline that will deplo
 
 link:- 
 
-
 # Best DevOps Projects for Advanced
 
 # 6) Deploying a Containerized Web Application
@@ -174,7 +173,7 @@ link:-
 
 link:- 
 
-# 36) Simple DevOps Project-4 - Part 02 | Create DevOps project using Git, Jenkins, ansible and Docker
+# 36) Simple DevOps Project-4 - Part 02 | Create a DevOps project using Git, Jenkins, Ansible, and Docker
 
 link:- 
 
