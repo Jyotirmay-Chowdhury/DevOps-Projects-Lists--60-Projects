@@ -73,15 +73,15 @@ Needless to say, this aids in the faster delivery of high-quality products to cl
 
 link:- 
 
-# 11)  Build A Simple Web Server With Golang       -----      DeadLine     (30/9/23 - 2/10/23)
+# 11)  Build A Simple Web Server With Golang      
+
+link:-  https://github.com/Jyotirmay-Chowdhury/Build-A-Simple-Web-Server-Using-Golang
+
+# 12) Build A CRUD API With Golang                  -----    DeadLine    (1/10/23 - 4/10/23)
 
 link:- 
 
-# 12) Build A CRUD API With Golang                  -----    DeadLine    (3/10/23 - 6/10/23)
-
-link:- 
-
-# 13) Golang With MySQL Book Management System          -----   DeadLine    (7/10/23 - 9/10/23)
+# 13) Golang With MySQL Book Management System          -----   DeadLine    (5/10/23 - 9/10/23)
 
 link:- 
 
