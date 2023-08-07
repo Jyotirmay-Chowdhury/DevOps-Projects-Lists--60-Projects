@@ -291,3 +291,16 @@ link:-
 # 63) DevOps Real-time Project 20 - AWS Securities                      -----               DeadLine   (17/3/24 - 21/3/24)
 
 link:-
+
+
+
+# DevOps Project Lists:- 
+
+https://www.interviewbit.com/blog/devops-projects/
+
+https://www.youtube.com/watch?v=jFfo23yIWac
+
+https://www.youtube.com/playlist?list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt
+
+https://www.youtube.com/playlist?list=PLkWRCY_kK0Gh1NTvgHUE0naF4-mOURp7e
+
