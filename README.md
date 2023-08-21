@@ -1,7 +1,7 @@
 # DevOps-Projects-Lists
 DevOps All Projects Lists with Descriptions.
 
-# 1) Java Application using Gradle    -----    Deadline  (1/10/23 - 3/10/23)
+# 1) Java Application using Gradle    
 Gradle is a well-known build automation tool that works across a variety of platforms and languages. This project includes establishing a Java application and breaking it down into subprojects in order to modularize it.
 
 After completing this project, you will know how to initialize a project as a Java application, run the build and build its test report. You will learn the way to execute a Java application and build it in an archive.
@@ -9,7 +9,7 @@ After completing this project, you will know how to initialize a project as a Ja
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 2) WebServer using Docker      -----   DeadLine   (4/10/23 - 6/10/23)
+# 2) WebServer using Docker      
 Docker is a popular container technology for hosting services and applications that virtualizes operating systems and builds lightweight containers. You will create a default base image for this project that other developers can use in their production environments. This project offers the framework for web app images in Python, Ruby, and Meteor.
 
 On successful completion of this project, you will be able to reduce the size of the Dockerfile and shorten the time it takes to write a Dockerfile. Also, you will learn to correctly set up the base system and reduce the amount of time it takes to run the docker build and the download time.
@@ -17,7 +17,7 @@ On successful completion of this project, you will be able to reduce the size of
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 3) CI/CD Pipeline using Azure        -----   DeadLine  (7/10/23 - 9/10/23)
+# 3) CI/CD Pipeline using Azure        
 You’ll use Azure DevOps Project to set up continuous delivery (CD) and continuous integration (CI) pipelines in this project. You may get started by using the provided code. The purpose is to quickly deploy an app to a variety of Azure services, including App Service, Virtual Machines, and Azure Kubernetes Services (AKS).
 
 In this project, you’ll use Azure’s DevOps Starter feature to establish an ASP.NET sample code, explore the CI/CD pipelines configured by DevOps Starter, commit code changes and run CI/CD, and configure Azure Application Insights monitoring.
@@ -25,7 +25,7 @@ In this project, you’ll use Azure’s DevOps Starter feature to establish an A
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 4) Jenkins Remoting Project       -----     DeadLine     (10/10/23 - 13/10/23)
+# 4) Jenkins Remoting Project       
 Jenkins Remoting is a library and archive for creating a communication layer. TCP protocols, data streaming, procedure calls, and other features are all included.
 
 In this project, you will have to improve Jenkins Remoting, a communication layer implementation library. Jenkins Remoting can be made compatible with a bus technology like ActiveMQ or RabbitMQ. You’ll need knowledge of networking fundamentals, Java, and message queues to execute the task.
@@ -33,7 +33,7 @@ In this project, you will have to improve Jenkins Remoting, a communication laye
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 5) CD Pipeline using AWS          -----     DeadLine     (14/10/23 - 16/10/23)
+# 5) CD Pipeline using AWS          
 You will develop a continuous delivery pipeline for a small web application in this project. To store your source code, you’ll first use a version control system. 
 
 Then you’ll learn how to set up a continuous delivery pipeline that will deploy your web application automatically anytime your source code is updated. This project uses GitHub, AWS Elastic Beanstalk, AWS CodeBuild, and AWS CodePipeline.
@@ -43,7 +43,7 @@ link:-
 
 # Best DevOps Projects for Advanced
 
-# 6) Deploying a Containerized Web Application       -----   DeadLine  (17/10/23 - 19/10/23)
+# 6) Deploying a Containerized Web Application       
 This project demonstrates how to package a web application as a Docker container image and run it on a Google Kubernetes Engine (GKE) cluster. The web application is then deployed as a load-balanced collection of replicas that can scale to meet the demands of your users.
 
 This project will help you in learning of how to package a sample web application into a Docker image, upload the Docker image to Artifact Registry, create a GKE cluster and deploy it to the cluster, manage autoscaling for deployment, expose the app to the internet and deploying a new version of it.
@@ -51,7 +51,7 @@ This project will help you in learning of how to package a sample web applicatio
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 7) Building Version Control System          -----    DeadLine      (20/10/23 - 22/10/23)
+# 7) Building Version Control System         
 You can use a Version Control System to keep track of your code, inspect multiple versions of it, switch between them, maintain different versions of it, and share it with other programmers.
 
 You will start with the basics and save code in our version control system. You will have to take a long way to set up a repository in order to do so. From there, you will figure out how to navigate through history. Then you will figure out how to handle branching, which is deceptively difficult in and of itself. You’ll be ready for Git once you’ve finished branching.
@@ -59,7 +59,7 @@ You will start with the basics and save code in our version control system. You 
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 8) Deploying Application Using Kubernetes        -----      DeadLine     (20/10/23 - 22/10/23)
+# 8) Deploying Application Using Kubernetes        
 In this project, you are going to use a simple web service that parses user messages and adds your message to a Redis Server. It is similar to a voicemail where the users can leave messages. 
 
 This project needs to run the application on Kubernetes, hence dockerizing is the primary step in this project. Hence, you will learn how to enable the application to run in docker containers. 
@@ -67,7 +67,7 @@ This project needs to run the application on Kubernetes, hence dockerizing is th
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 9) Structuring a Terraform Project             -----       DeadLine    (23/10/23 - 26/10/23)
+# 9) Structuring a Terraform Project          
 In order to ensure its maintainability and extensibility in day-to-day operations, Terraform projects must be properly structured according to their use cases and perceived complexity.
 
 This project will teach you how to organize Terraform projects based on their general purpose and complexity. Then, using the more popular Terraform features such as variables, localities, data sources, and provisioners, you’ll design a project with a simple structure. In the end, your project will use DigitalOcean to deploy an Ubuntu 20.04 server (Droplet), install an Apache web server, and point your domain to it.
@@ -75,7 +75,7 @@ This project will teach you how to organize Terraform projects based on their ge
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 10) Building and Executing Selenium Project      -----     DeadLine     (27/10/23 - 29/10/23)
+# 10) Building and Executing Selenium Project     
 Test automation requires the creation and execution of Selenium projects. It facilitates the execution of tests, the analysis of reports, and the reporting of bugs. 
 
 Needless to say, this aids in the faster delivery of high-quality products to clients, making them happier. You will be able to demonstrate how to develop a Selenium project employing both a “Java Project” and a “Maven Project” after completing this project.
@@ -99,100 +99,100 @@ link:-  https://github.com/Jyotirmay-Chowdhury/Build-A-Simple-Web-Server-Using-G
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 12) Build A CRUD API With Golang                  -----    DeadLine    (1/11/23 - 4/11/23)
+# 12) Build A CRUD API With Golang                 
 
 link:- 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# 13) Golang With MySQL Book Management System          -----   DeadLine    (5/11/23 - 9/11/23)
+# 13) Golang With MySQL Book Management System          
 
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 14) Simple SlackBot To Calculate Age               -----   DeadLine    (10/11/23 - 12/11/23)
+# 14) Simple SlackBot To Calculate Age              
 
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 15) Golang Slackbot for File Uploading            -----     DeadLine   (13/11/23 - 15/11/23)
+# 15) Golang Slackbot for File Uploading            
 
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 16)  Email Verifier Tool With Golang           -----       DeadLine    (16/11/23 - 18/11/23)
+# 16)  Email Verifier Tool With Golang           
 
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 17) AWS Lambda With Golang                  -----    DeadLine          (16/11/23 - 18/11/23)
+# 17) AWS Lambda With Golang                 
 
 links:-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 18) CRM with Golang Fiber                     -----     DeadLine        (19/11/23 - 22/11/23)
+# 18) CRM with Golang Fiber                    
 
 links:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 19) HRMS with Golang Fiber                 -----       DeadLine         (23/11/23 - 25/11/23)
+# 19) HRMS with Golang Fiber                
 
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 20) Complete Serverless Stack              -----        DeadLine        (26/11/23 - 28/11/23)
+# 20) Complete Serverless Stack              
 
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 21) A.I Bot with Wolfram, Wit.ai and golang        -----     DeadLine   (29/11/23 - 1/12/23)
+# 21) A.I Bot with Wolfram, Wit.ai and golang        
 
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 22) Production Ready CI/CD Pipeline Using Jenkins, Ansible, Docker, Kubernetes, etc     -----       DeadLine   (2/12/23 - 4/12/23)
+# 22) Production Ready CI/CD Pipeline Using Jenkins, Ansible, Docker, Kubernetes, etc     
 
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 23) CI/CD setup pre-requisites for Simple pipeline               -----              DeadLine   (5/12/23 - 8/12/23)
+# 23) CI/CD setup pre-requisites for Simple pipeline              
 
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 24) How to upload code onto GitHub repository | How to push code from local repo to remote repo      -----      DeadLine   (9/12/23 - 11/12/23)
+# 24) How to upload code onto GitHub repository | How to push code from local repo to remote repo      
 
 link:- 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 25) How to Create AWS Free Account                                  -----          DeadLine   (12/12/23 - 14/12/23)
+# 25) How to Create AWS Free Account                               
 
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 26) Create Linux EC2 instance | AWS EC2 instance | Linux Server         -----        DeadLine   (15/12/23 - 18/12/23)
+# 26) Create Linux EC2 instance | AWS EC2 instance | Linux Server        
 
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 27) How to Login to EC2 instance Using without conversion Key with MobaXterm   -----   DeadLine   (19/12/23 - 21/12/23)
+# 27) How to Login to EC2 instance Using without conversion Key with MobaXterm   
 
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 28) Jenkins Installation & Configuration on AWS EC2 instance | Jenkins Installation on AWS EC2    -----    DeadLine   (22/12/23 - 24/12/23)
+# 28) Jenkins Installation & Configuration on AWS EC2 instance | Jenkins Installation on AWS EC2   
 
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 29) Installing & Configure Maven on AWS EC2 instance | Maven setup & configuration on Jenkins      -----     DeadLine   (25/12/23 - 28/12/23)
+# 29) Installing & Configure Maven on AWS EC2 instance | Maven setup & configuration on Jenkins      
 
 link:- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 30) Mini DevOps - Configure Global Jenkins Server Security | Securing Jenkins Server           -----      DeadLine   (29/12/23 - 1/1/24)
+# 30) Mini DevOps - Configure Global Jenkins Server Security | Securing Jenkins Server          
 
 
 link:- 
